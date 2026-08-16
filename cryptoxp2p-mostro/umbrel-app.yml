@@ -4,7 +4,7 @@ category: bitcoin
 name: Mostro CryptoXP2P
 version: "0.18.4"
 tagline: Mostro P2P backend for the CryptoXP2P community
-icon: icon.png
+icon: https://raw.githubusercontent.com/erykoportela/cryptoxp2p-app-store/main/cryptoxp2p-mostro/icon.png
 
 description: >-
   Mostro P2P backend for the CryptoXP2P community running on Umbrel,
