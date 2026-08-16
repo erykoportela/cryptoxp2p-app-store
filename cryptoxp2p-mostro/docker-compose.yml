@@ -1,0 +1,8 @@
+services:
+  app:
+    image: mostrop2p/mostro:v0.18.4
+    restart: unless-stopped
+    extra_hosts:
+      - "umbrel.local:host-gateway"
+    volumes:
+      - /home/umbrel/mostro-config:/config
