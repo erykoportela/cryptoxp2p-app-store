@@ -23,3 +23,9 @@ dependencies:
 port: 50051
 
 gallery: []
+
+submitter: CryptoXP2P
+submission: https://github.com/erykoportela/cryptoxp2p-app-store
+path: ""
+defaultUsername: ""
+defaultPassword: ""
