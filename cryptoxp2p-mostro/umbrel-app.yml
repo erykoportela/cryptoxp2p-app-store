@@ -4,13 +4,22 @@ category: bitcoin
 name: Mostro CryptoXP2P
 version: "0.18.4"
 tagline: Mostro P2P backend for the CryptoXP2P community
+
 description: >-
-  Mostro P2P backend for the CryptoXP2P community running on Umbrel
+  Mostro P2P backend for the CryptoXP2P community running on Umbrel,
   with Lightning and Nostr integration.
+
+releaseNotes: >-
+  Initial CryptoXP2P Umbrel package for Mostro v0.18.4.
+
 developer: MostroP2P
 website: https://mostro.network
-dependencies:
-  - lightning
 repo: https://github.com/MostroP2P/mostro
 support: https://github.com/MostroP2P/mostro/issues
+
+dependencies:
+  - lightning
+
 port: 50051
+
+gallery: []
